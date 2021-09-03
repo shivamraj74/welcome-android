@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="roll_no_btech_15302_18">Roll No: BTECH/15302/18</string>
+    <string name="my_name_is_shivam_raj">My Name is Shivam Raj</string>
+    <string name="welcome_to_mobile_interface_lab">Welcome to Mobile Interface Lab</string>
+    <string name="font_size_changer">Font Size Changer</string>
+    <string name="font_color_changer">Font Color Changer</string>
+</resources>
